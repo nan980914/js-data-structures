@@ -1,5 +1,5 @@
 // 导入栈结构的封装及测试代码
-// import './Stack'
+import './Stack/test'
 
 // 导入队列结构的封装及测试代码
 // import './Queue'
@@ -8,7 +8,7 @@
 // import './PriorityQueue'
 
 // 导入单向链表结构的封装及测试代码
-import './LinkedList/test'
+// import './LinkedList/test'
 
 // 导入双向链表结构的封装及测试代码
 // import './DoublyLinkedList'
